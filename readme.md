@@ -6,3 +6,10 @@ Bonus 2:
 Aggiungiamo la possibilita' di modificare in tempo reale con un input sia l'h1 che l'url dell'immagine!
 Bonus Special:
 Al click sull'immagine facciamo succedere qualcosa di creativo!
+
+||PROCEDURA||
+
+Creo il collegamento tra il file js e html per vue
+Inizializzo vue tramite la documentazione di base
+Creo un elemento h1
+Stampo il messaggio in pagina all'interno dell'h1
